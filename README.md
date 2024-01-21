@@ -2,6 +2,8 @@
 
 ## Docker + Postgres
 
+**Note:** The following can be executed using GitHub Codespaces. The commands assume that GitHub Codespaces is used and accessed from your local VS Code.
+
 ### Running Postgres and pgAdmin together
 
 Create a network
